@@ -5,7 +5,7 @@ The first part of the project includes experimentation with different APIs and f
 
 The project's 'report.pdf' provides full details.
 
-#### Example figure
+### Example figure
 
 <img src="imgs/queries.png">
 
